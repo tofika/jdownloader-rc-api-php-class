@@ -1,6 +1,5 @@
 A PHP wrapper class for JDownloader RemoteControl API.
 
-
 Usage:
 
 ```php
@@ -14,7 +13,6 @@ $links = array( "http://link1","http://link2","http://link3");
 
 $r = $j -> j_add_links( $packagename, $links);
 ```
-
 
 Copyright (c) 2013 Anatoliy Kultenko "tofik".
 Released under the BSD License, see http://opensource.org/licenses/BSD-3-Clause
